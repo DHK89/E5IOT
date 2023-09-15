@@ -12,7 +12,7 @@ Et dårligt indeklima kan have en negativ impakt på folks helbred, derfor er de
 
 Ved at have data på luftkvaliteten udenfor er det hurtigt at se eksempelvis om det vil hjælpe at åbne eller lukke et vindue i rummet.
 
-Mulig udvidelse af projektet inkluderer logging af indeklima og webbaseret dashboard med mere dybdegående data i stedet for det mere simpele overblik på selve iot hardwaren.
+Mulig udvidelse af projektet inkluderer logging af indeklima og webbaseret dashboard med mere dybdegående data i stedet for det mere simple overblik på selve iot hardwaren.
 
 ## Hardware
 * En Particle Argon **minimum krav**
