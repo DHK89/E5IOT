@@ -13,8 +13,8 @@ Mulig udvidelse af projektet inkluderer logging af indeklima og webbaseret dashb
 * En Particle Argon **minimum krav**
 * En Honeywell HPMA115S0 Partikel Sensor **minimum krav**
 * Et Display **minimum krav**
-* En Adafruit CCS811 TVOC/C02 Sensor *nice to have*
-* En Adafruit Si7021 Fugtighed/Temperatur Sensor *nice to have*
+* En Adafruit CCS811 TVOC/C02 Sensor _*nice to have*_
+* En Adafruit Si7021 Fugtighed/Temperatur Sensor _*nice to have*_
 
 ## API/Webhook
 waqi.info - api findes [her](https://aqicn.org/api/).
