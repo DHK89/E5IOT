@@ -2,7 +2,7 @@
 ## Indhold
 * [Introduktion](#Introduktion)
 * [Hardware](#Hardware)
-* [API/Webhook](#API/Webhook)
+* [API/Webhook](#APIWebhook)
 
 ## Introduktion
 Dette IOT projekts mål er at lave et indeklima info system der kan give et hurtigt overblik over et rums luftkvalitet via brug af sensorer, samt give information om luftkvaliteten udenfor via et api kald. Den opsamlede data fra sensorer og api-kald, bruges til at lave et simpelt overblik over indeklimaet på hardwarens display.
